@@ -8,5 +8,5 @@ It requires Truffle for contract deployment purpose and Testrpc for getting acco
 
 It uses web3js for interacting with smart contract.
 
-Note :- 1. Big numbers are not supported yet.
-        2. It is still under development.
+Note :- Big numbers are not supported yet.
+        It is still under development.
